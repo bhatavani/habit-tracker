@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Drink Water",
+    "completed": 0,
+    "date": "2024-12-04"
+  }
+]
+[
+  {
+    "name": "Drink Water",
+    "completed": 1,
+    "date": "2024-12-04"
+  },
+  {
+    "name": "Study",
+    "completed": 0,
+    "date": "2024-12-04"
+  }
+]
+[
+  {
+    "name": "Drink Water",
+    "completed": 1,
+    "date": "2024-12-04"
+  },
+  {
+    "name": "Study",
+    "completed": 0,
+    "date": "2024-12-04"
+  },
+  {
+    "name": "exercise",
+    "completed": 1,
+    "date": "2024-12-04"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Drink Water",
+    "daily_goal": "8 glasses",
+    "completion_status": 1,
+    "date": "2024-12-04"
+  },
+  {
+    "id": 2,
+    "name": "Study",
+    "daily_goal": "1 hour",
+    "completion_status": 0,
+    "date": "2024-12-04"
+  },
+  {
+    "id": 3,
+    "name": "exercise",
+    "daily_goal": "1 hour",
+    "completion_status": 1,
+    "date": "2024-12-04"
+  }
+]
