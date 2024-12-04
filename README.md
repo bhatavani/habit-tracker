@@ -4,8 +4,8 @@ Smart Habit Tracker is a Node.js-based application that helps users track their 
 
 Features
 
-- Add, update, and delete habits.  
-- Receive real-time updates via WebSocket.  
+- Add, update and get habits.  
+- Receive real-time updates(reminders) via WebSocket.  
 - Generate and retrieve weekly reports.  
 - Data persistence using file-based storage
 
@@ -17,7 +17,9 @@ Requirements
 
 API endpoints
 -POST	/habits	Add a new habit
+
 -GET	/habits	Get all habits
+
 -PUT	/habits/:id	Update an existing habit
--DELETE	/habits/:id	Delete a habit
+
 -GET	/reports/weekly	Retrieve weekly report
